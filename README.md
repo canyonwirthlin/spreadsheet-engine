@@ -1,4 +1,4 @@
-# Spreadsheet Application
+# Spreadsheet Engine
 
 A functional spreadsheet engine built from scratch in C# (.NET 9), developed across multiple assignments in CS 3500 (Software Practice) at the University of Utah.
 
